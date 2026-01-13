@@ -111,4 +111,4 @@ Modify the color scheme in `tailwind.config.ts` under the `theme.extend.colors` 
 
 ## License
 
-© 2024 Poppy Chargha House. All rights reserved.
+© 2024 Poppy Chargha House. All rights reserved. hehe
